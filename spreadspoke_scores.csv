@@ -13354,19 +13354,19 @@ schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,score_hom
 10/30/2022,2022,8,FALSE,Philadelphia Eagles,35,13,Pittsburgh Steelers,PHI,-11.5,43,Lincoln Financial Field,FALSE,,,,
 10/30/2022,2022,8,FALSE,Seattle Seahawks,27,13,New York Giants,SEA,-3,44.5,Lumen Field,FALSE,,,,
 10/31/2022,2022,8,FALSE,Cleveland Browns,32,13,Cincinnati Bengals,CIN,-3,45,FirstEnergy Stadium,FALSE,,,,
-11/3/2022,2022,9,FALSE,Houston Texans,,,Philadelphia Eagles,,,,NRG Stadium,FALSE,72,0,,DOME
-11/6/2022,2022,9,FALSE,Arizona Cardinals,,,Seattle Seahawks,,,,State Farm Stadium,FALSE,,,,
-11/6/2022,2022,9,FALSE,Atlanta Falcons,,,Los Angeles Chargers,,,,Mercedes-Benz Stadium,FALSE,,,,
-11/6/2022,2022,9,FALSE,Chicago Bears,,,Miami Dolphins,,,,Soldier Field,FALSE,,,,
-11/6/2022,2022,9,FALSE,Cincinnati Bengals,,,Carolina Panthers,,,,Paycor Stadium,FALSE,,,,
-11/6/2022,2022,9,FALSE,Detroit Lions,,,Green Bay Packers,,,,Ford Field,FALSE,72,0,,DOME
-11/6/2022,2022,9,FALSE,Jacksonville Jaguars,,,Las Vegas Raiders,,,,TIAA Bank Field,FALSE,,,,
-11/6/2022,2022,9,FALSE,Kansas City Chiefs,,,Tennessee Titans,,,,GEHA Field at Arrowhead Stadium,FALSE,,,,
-11/6/2022,2022,9,FALSE,New England Patriots,,,Indianapolis Colts,,,,Gillette Stadium,FALSE,,,,
-11/6/2022,2022,9,FALSE,New York Jets,,,Buffalo Bills,,,,MetLife Stadium,FALSE,,,,
-11/6/2022,2022,9,FALSE,Tampa Bay Buccaneers,,,Los Angeles Rams,,,,Raymond James Stadium,FALSE,,,,
-11/6/2022,2022,9,FALSE,Washington Commanders,,,Minnesota Vikings,,,,FedEx Field,FALSE,,,,
-11/7/2022,2022,9,FALSE,New Orleans Saints,,,Baltimore Ravens,,,,Caesars Superdome,FALSE,72,0,,DOME
+11/3/2022,2022,9,FALSE,Houston Texans,17,29,Philadelphia Eagles,PHI,-14,45.5,NRG Stadium,FALSE,72,0,,DOME
+11/6/2022,2022,9,FALSE,Arizona Cardinals,21,31,Seattle Seahawks,ARI,-2,49,State Farm Stadium,FALSE,,,,
+11/6/2022,2022,9,FALSE,Atlanta Falcons,17,20,Los Angeles Chargers,LAC,-2.5,49.5,Mercedes-Benz Stadium,FALSE,,,,
+11/6/2022,2022,9,FALSE,Chicago Bears,32,35,Miami Dolphins,MIA,-4,46,Soldier Field,FALSE,,,,
+11/6/2022,2022,9,FALSE,Cincinnati Bengals,42,21,Carolina Panthers,CIN,-7,42.5,Paycor Stadium,FALSE,,,,
+11/6/2022,2022,9,FALSE,Detroit Lions,15,9,Green Bay Packers,GB,-4,49.5,Ford Field,FALSE,72,0,,DOME
+11/6/2022,2022,9,FALSE,Jacksonville Jaguars,27,20,Las Vegas Raiders,LVR,-2.5,48,TIAA Bank Field,FALSE,,,,
+11/6/2022,2022,9,FALSE,Kansas City Chiefs,20,17,Tennessee Titans,KC,-14,45,GEHA Field at Arrowhead Stadium,FALSE,,,,
+11/6/2022,2022,9,FALSE,New England Patriots,26,3,Indianapolis Colts,NE,-5,40,Gillette Stadium,FALSE,,,,
+11/6/2022,2022,9,FALSE,New York Jets,20,17,Buffalo Bills,BUF,-10.5,46,MetLife Stadium,FALSE,,,,
+11/6/2022,2022,9,FALSE,Tampa Bay Buccaneers,16,13,Los Angeles Rams,TB,-3,42.5,Raymond James Stadium,FALSE,,,,
+11/6/2022,2022,9,FALSE,Washington Commanders,17,20,Minnesota Vikings,MIN,-3,43.5,FedEx Field,FALSE,,,,
+11/7/2022,2022,9,FALSE,New Orleans Saints,13,27,Baltimore Ravens,BAL,-1.5,46,Caesars Superdome,FALSE,72,0,,DOME
 11/10/2022,2022,10,FALSE,Carolina Panthers,,,Atlanta Falcons,,,,Bank of America Stadium,FALSE,,,,
 11/13/2022,2022,10,FALSE,Buffalo Bills,,,Minnesota Vikings,,,,Highmark Stadium,FALSE,,,,
 11/13/2022,2022,10,FALSE,Chicago Bears,,,Detroit Lions,,,,Soldier Field,FALSE,,,,
